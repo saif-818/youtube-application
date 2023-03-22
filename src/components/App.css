@@ -1,0 +1,9 @@
+/* *{
+    background-color: teal;
+}
+body{
+    background-color: lightcyan;
+} */
+.ui.segment:first-child{
+   margin-top: 12px;
+}
